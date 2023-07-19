@@ -42,5 +42,7 @@ Likewise, generating the lognormal distributions is non-deterministic, so the ou
 
 Data for Table S1 and Table S2 can be found in the .xlsx versions of the dataset at the bottom of the file.
 
-The data for Figure 2 and Figure 5 will be provided upon request.  TODO fix.
+Figure 2 was created using Origin 2023b using the "Correlation plot, v 1.31" app with the pyrolysis and HTC .csv files.
+
+The data for Figure 5 will be provided upon request.  TODO fix.
 
