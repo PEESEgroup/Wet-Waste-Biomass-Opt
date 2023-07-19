@@ -11,7 +11,7 @@ To run the code, use the jupyter notebook sz_master_071323.ipynb.
 
 ### Code versions
 
-The code was developed on Python 3.9.7 using optuna version 3.0.2, xgboost 1.6.1, and sklearn 1.1.1.  Performance may differ if the most updated versions of those packages are used.
+The code was developed on Python 3.9.7 using optuna version 3.0.2, xgboost 1.6.1, and sklearn 1.1.1.  Performance and results may differ if the most recent versions of those packages are used.
 
 Use ```pip install optuna==3.0.2``` and similar commands to install packages with specific versions.
 
