@@ -1,6 +1,28 @@
 # Wet-Waste-Biomass-Opt
 code for Advancing Sustainable Development Goals with Machine Learning and Optimization for Wet Waste Biomass to Renewable Energy Conversion paper submitted to the journal of cleaner produciton
 
+## Citation
+
+To complete
+
+## About
+
+This repository contains models and results for the Advancing Sustainable Development Goals with Machine Learning and Optimization for Wet Waste Biomass to Renewable Energy Conversion paper submitted to the Journal of Cleaner Production.  
+
+### Overview
+
+```HTC_data.csv``` and ```Pyrolysis_data.csv``` contain data for the models.  
+
+```HTC_data.xlsx``` and ```Pyrolysis_data.xlsx``` contain summary statistics in addition to the dataset, while ```SI_Dataset(1).docx``` provides citation support for the data.
+
+```sz_master_071323.ipynb``` contains all necessary model codes, of which further overview is given in code comments and the remainder of the readme.  The ```sz_master_071323.html``` file contains sample output from the model.
+
+### .ipynb requirements
+
+The code was developed on Python 3.9.7 using optuna version 3.0.2, xgboost 1.6.1, and sklearn 1.1.1.  Performance and results may differ if the most recent versions of those packages and Python are used.  Additional packages as listed in the first cell of the .ipynb are necessary, though a specific version is not needed.  
+
+Use ```pip install optuna==3.0.2``` and similar commands to install packages with specific versions.
+
 ## Data
 
 Data used for the model can be found in the HTC_data.csv and Pyrolysis_data.csv files.  This data, with citation support, can be found in SI_Dataset(1).doxc
@@ -8,12 +30,6 @@ Data used for the model can be found in the HTC_data.csv and Pyrolysis_data.csv 
 ## Running the code
 
 To run the code, use the jupyter notebook sz_master_071323.ipynb.  
-
-### Code versions
-
-The code was developed on Python 3.9.7 using optuna version 3.0.2, xgboost 1.6.1, and sklearn 1.1.1.  Performance and results may differ if the most recent versions of those packages are used.
-
-Use ```pip install optuna==3.0.2``` and similar commands to install packages with specific versions.
 
 ### Scenario modification
 
