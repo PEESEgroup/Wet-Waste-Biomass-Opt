@@ -5,6 +5,8 @@ code for Advancing Sustainable Development Goals with Machine Learning and Optim
 
 Zhu, S., Preuss, N. and You, F., 2023. Advancing sustainable development goals with machine learning and optimization for wet waste biomass to renewable energy conversion. Journal of Cleaner Production, 422, p.138606.
 
+https://doi.org/10.1016/j.jclepro.2023.138606
+
 ## About
 
 This repository contains models and results for the Advancing Sustainable Development Goals with Machine Learning and Optimization for Wet Waste Biomass to Renewable Energy Conversion paper submitted to the Journal of Cleaner Production.  
