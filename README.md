@@ -3,7 +3,7 @@ code for Advancing Sustainable Development Goals with Machine Learning and Optim
 
 ## Citation
 
-To complete
+Zhu, S., Preuss, N. and You, F., 2023. Advancing sustainable development goals with machine learning and optimization for wet waste biomass to renewable energy conversion. Journal of Cleaner Production, 422, p.138606.
 
 ## About
 
